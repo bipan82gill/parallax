@@ -1,0 +1,12 @@
+.container{
+    width:980px;
+    padding: 25px;
+    background-color: bisque;
+}
+.parallax{
+    background: url(./img/books.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+
+}
